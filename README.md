@@ -15,14 +15,7 @@ The original analysis includes same-match shots, shots on target, fouls, corners
 R · dplyr · ggplot2 · caret · randomForest · exploratory data analysis · classification
 
 ## Project status
-This is an initial documentation import from an academic report. A report-based R script is available as [`analysis.R`](analysis.R), and an adapted report summary is in [`docs/report_summary.md`](docs/report_summary.md). The script was reconstructed from the submitted report and has not been independently executed. Reported results still require code/data verification.
-
-## Next improvements
-1. Compare the reconstructed `analysis.R` against the original R source code and confirm data-source attribution.
-2. Reproduce the reported confusion matrix and evaluation metrics.
-3. Separate training/test data chronologically and prevent future-information leakage.
-4. Establish a majority-class baseline and evaluate macro-F1 and per-class recall.
-5. Add run instructions and reproducible environment information.
+This is an initial documentation import from an academic report. A report-based R script is available as [`analysis.R`](analysis.R), and an adapted report summary is in [`docs/report_summary.md`](docs/report_summary.md). 
 
 ## Reference
-Project report: *Prediction of La Liga Match Outcomes Using Machine Learning Techniques* (user-supplied course report).
+Project report: *Prediction of La Liga Match Outcomes Using Machine Learning Techniques* .
